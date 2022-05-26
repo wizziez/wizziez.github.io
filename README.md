@@ -1,4 +1,4 @@
-<h1 align="center">Assalamualaikum,I'm Raiyan Sarwar</h1>
+<h1 align="center">Assalamualaikum, I'm Raiyan Sarwar</h1>
 <h3 align="center">Welcome to my portfolio, I've an enthusiasm for tech related stuff as well as i love doing photography. currently i'm studying B.Sc in Information & Communication Engineering at Bangladesh University of Professionals (BUP).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wizziez&label=Profile%20views&color=0e75b6&style=flat" alt="wizziez" /> </p>
