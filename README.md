@@ -1,6 +1,6 @@
 <h1 align="center">Assalamualaikum,I'm Raiyan Sarwar</h1>
 <h3 align="center">Welcome to my portfolio, I've an enthusiasm for tech related stuff as well as i love doing photography. currently i'm studying B.Sc in Information & Communication Engineering at Bangladesh University of Professionals (BUP).</h3>
-<img align="right" alt="Coding" width="400" src=https://fsb.zobj.net/crop.php?r=eFoQId49l_2pP40zsjVpPv64tJmxr13Sqt3uSnAiIW_RKVnMKOMOFgRZSrg-GYSF684cHos8GPJGVJKsi0bY4tsQDtryPMFtEx9gWfOPJaimbrpPwPyfWNiOBUsek8Tc1V-z_KXQtZ0PY06z08-OPyhvGc9dBSe45SV7ipUkGRXyhNfijErForA6e_9M32iLSyV0O0x7CQZ0rw7i">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wizziez&label=Profile%20views&color=0e75b6&style=flat" alt="wizziez" /> </p>
