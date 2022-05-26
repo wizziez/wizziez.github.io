@@ -1,13 +1,13 @@
-<h1 align="center">Assalamualaikum, I'm Raiyan Sarwar</h1>
+<h1 align="center">Assalamualaikum,I'm Raiyan Sarwar</h1>
 <h3 align="center">Welcome to my portfolio, I've an enthusiasm for tech related stuff as well as i love doing photography. currently i'm studying B.Sc in Information & Communication Engineering at Bangladesh University of Professionals (BUP).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wizziez&label=Profile%20views&color=0e75b6&style=flat" alt="wizziez" /> </p>
 
 - 🌱 I’m currently learning **C/python**
 
-- 📌You may check out some of my blogposts going through this link [https://bn.quora.com/profile/Raiyan-Sarwar](https://bn.quora.com/profile/Raiyan-Sarwar)
+- 📌You may check out some of my blogposts going through this link: [https://bn.quora.com/profile/Raiyan-Sarwar](https://bn.quora.com/profile/Raiyan-Sarwar)
 
-- 📫 How to reach me **raiyanbsarwar@gmail.com**
+- 📫 reach me through: **raiyanbsarwar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
