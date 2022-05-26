@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Raiyan Sarwar</h1>
-<h3 align="center">A tech enthusiast, photophile as well as a novice coder</h3>
+<h1 align="center">Assalamualaikum,I'm Raiyan Sarwar</h1>
+<h3 align="center">Welcome to my portfolio, I've an enthusiasm for tech related stuff as well as i love doing photography. currently i'm studying Information & Communication Engineering at Bangladesh University of Professionals (BUP).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wizziez&label=Profile%20views&color=0e75b6&style=flat" alt="wizziez" /> </p>
 
 - 🌱 I’m currently learning **C/python**
 
-- you can check out some of my blogposts going through this link [https://bn.quora.com/profile/Raiyan-Sarwar](https://bn.quora.com/profile/Raiyan-Sarwar)
+- You may check out some of my blogposts going through this link [https://bn.quora.com/profile/Raiyan-Sarwar](https://bn.quora.com/profile/Raiyan-Sarwar)
 
 - 📫 How to reach me **raiyanbsarwar@gmail.com**
 
@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wizziez&show_icons=true&locale=en&layout=compact" alt="wizziez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wizziez&show_icons=true&locale=en" alt="wizziez" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wizziez&" alt="wizziez" /></p>
