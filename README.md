@@ -1,4 +1,4 @@
-<[![MasterHead](https://data.whicdn.com/images/342117340/original.gif)](https://wizziez.github.io)
+<[![MasterHead](https://data.whicdn.com/images/342117340/original.gif)](https://wizziez.github.io)>
 <h1 align="center">Assalamualaikum, I'm Raiyan Sarwar</h1>
 <h3 align="center">Welcome to my portfolio, I've enthusiasm for tech related stuff as well as i love doing photography. currently i'm studying B.Sc in Information & Communication Engineering at Bangladesh University of Professionals (BUP).</h3>
 
